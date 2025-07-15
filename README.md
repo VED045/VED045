@@ -14,80 +14,108 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hey there, I'm Ved Deshpande 👋</h1>
+<h1 align="center">Hi there, I'm Ved Deshpande 🚀</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0D9CFF&center=true&vCenter=true&width=435&lines=Developer+%7C+ML+%7C+CV+%7C+Full+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0DB9F9&center=true&vCenter=true&width=435&lines=Machine+Learning+%7C+Computer+Vision+%7C+MERN+Stack+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:veddeshpande24@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/ved-deshpande-a632b7282/">💼 LinkedIn</a> •
+  <a href="https://github.com/VED045">🐙 GitHub</a> •
+  <a href="https://drive.google.com/file/d/13mHHPJnEW37617x6kibvBb80fKkyksvk/view?usp=sharing">📄 Resume</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Final-year student passionate about **Machine Learning**, **Computer Vision**, and **Full Stack Development**
-- 🔭 Currently building an advanced **Player Tracking System** using **YOLOv8 + SAM** for video analytics
-- 💻 Regular at **LeetCode** & **CodeChef** (love solving real-world problems with code)
-- 🌱 Actively learning **Deep Learning**, **System Design**, and deploying models on cloud
-- 🛠️ Built scalable apps in **MERN**, and developed end-to-end **AI-based attendance and tracking systems**
-
----
-
-## 📫 Connect With Me
-
-- 🔗 [LinkedIn](www.linkedin.com/in/ved-deshpande-a632b7282)  
-- 📄 [Resume](https://drive.google.com/file/d/your_resume_link_here/view)
+- 🎓 B.E. Information Technology @ PICT | CGPA: 9.79
+- 📌 Top 2.3% in JEE Mains (97.64 percentile), MHT-CET (98.27 percentile)
+- 💡 Passionate about solving real-world problems using **AI**, **Computer Vision**, and **Full Stack Web Development**
+- 🎯 Active problem solver on [LeetCode](https://leetcode.com/u/Ved_45/) and [CodeChef](https://www.codechef.com/users/ved_45)
+- 🏸 Also a badminton enthusiast & zonal-level school representative!
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 👨‍💻 Languages
+### 💡 Languages & Tools
+
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🧠 AI/ML & CV
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat&logo=opencv&logoColor=black)
+### 🔍 ML / CV
+
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat&logo=opencv&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)
 
 ### 🌐 Full Stack
+
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat&logo=razorpay&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🌟 Featured Projects
+
+### 🎮 [Player Tracking System with YOLOv8 + SAM](https://github.com/VED045/Players_Tracking_Repo_Ved)
+> Real-time football player detection and tracking
+
+- Used **YOLOv8** for player detection and **feature-based Re-ID** using color histograms & ResNet50
+- Integrated **motion prediction**, **ID stability**, and **cooldown logic**
+- Output processed with **Google Drive storage**, annotated videos, and segment analysis
+
+---
+
+### 📷 [Face Detection & Lecture Attendance System](https://github.com/VED045/Face_Detection_Attendance)
+> Automating class attendance & lecture transcription
+
+- Detects students using **YOLOv8 + Face Detection**
+- Automatically marks absent roll numbers via **OCR**
+- Converts lecture audio to text using **speech-to-text models**
+- Designed with modular code for plug-and-play integration
+
+---
+
+### 🩺 [Telemedicine Appointment Scheduler](https://telemedx.netlify.app/)
+> AI-powered consultation scheduling & wearable health integration
+
+- Built using **MERN stack**, integrated **Google Fit** for health data
+- Custom scheduling algorithm for urgency-based consultations
+- Features include digital prescriptions, emergency calling, and secure **Razorpay** payments
+- Won top 10 at TechFiesta 2025 among 400+ teams
+
+---
+
+## 🏆 Achievements
+
+- 🥇 1st Place @ IEEE TechRush Hackathon (Diabetes Predictor - 97.4% Accuracy)
+- 🥈 Finalist @ TechFiesta 2025 (Top 10/400+ teams)
+- 🌟 Global Rank 460 in CodeChef Starters
+- 📚 Completed ML Specialization by Andrew Ng
+- 🎯 Solved 300+ problems on [LeetCode](https://leetcode.com/u/Ved_45/)
+- 🏸 Represented school in Zonal Badminton Tournament
+
+---
+
+## 📊 Top Languages Used
 
 <p align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=VED045&show_icons=true&theme=radical&count_private=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VED045&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VED045&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
 
-## 📽️ Projects I'm Proud Of
+<p align="center">Made with ❤️ by Ved Deshpande | Let’s connect!</p>
 
-- 🎯 **Player Tracking with YOLOv8 + SAM**  
-  <sub>Real-time sports analytics using CV and segmentation</sub>  
-  🔗 [View Project](https://github.com/VED045/Player_Tracking)
-
-- 🧠 **Face Detection Attendance System**  
-  <sub>YOLOv8-based attendance system with facial recognition</sub>  
-  🔗 [GitHub](https://github.com/VED045/Face_Detection_Attendance)
-
-- 💡 **AI-based Scheduler & Wearable Sync**  
-  <sub>Smart schedule planning with Google Fit & telehealth support</sub>
-
----
-
-## ✍️ Quote I Live By
-
-> "The best way to predict the future is to invent it." — Alan Kay
-
----
-
-<p align="center">✨ Thanks for visiting my profile! ✨</p>
