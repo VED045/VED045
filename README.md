@@ -71,7 +71,7 @@
 
 ---
 
-### 🩺 [Telemedicine Scheduler](https://telemedx.netlify.app/)
+### 🩺 [Telemedicine Appointment Scheduler](https://telemedx.netlify.app/)
 > Smart appointment & health sync platform  
 🔹 Built with MERN stack  
 🔹 Google Fit integration  
