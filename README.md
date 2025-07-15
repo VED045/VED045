@@ -1,10 +1,11 @@
 <!-- VED045 GitHub Profile README -->
 
 <!-- Banner -->
-
+<!--
 <p align="center">
   <img src="https://github.com/VED045/VED045/assets/My-custom-banner.png" alt="Ved Deshpande Banner" width="100%"/>
 </p>
+-->
 
 <h1 align="center">Hey there, I'm Ved Deshpande 🚀</h1>
 
