@@ -108,7 +108,7 @@
 ---
 
 ## 🧠 Quote I Live By
-> “The best way to predict the future is to invent it.” — Alan Kay
+> “Don’t watch the clock; do what it does. Keep going.” — I really dont know
 
 ---
 
