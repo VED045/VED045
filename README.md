@@ -25,7 +25,7 @@
 
 ## 🧠 About Me
 
-🎓 B.E. IT @ PICT (CGPA: 9.79)  
+🎓 Third.Year. IT @ PICT (CGPA: 9.79)  
 📌 JEE: 97.64%, MHT-CET: 98.27%  
 💡 AI | Computer Vision | MERN Stack  
 🧠 300+ Problems on [LeetCode](https://leetcode.com/u/Ved_45/), [CodeChef](https://www.codechef.com/users/ved_45)  
