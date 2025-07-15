@@ -43,7 +43,7 @@
 
 <!-- ML & CV -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,numpy,opencv,tensorflow,scikitlearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,scikitlearn" />
 </p>
 
 <!-- Full Stack -->
