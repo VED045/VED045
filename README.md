@@ -55,7 +55,7 @@
 
 ## 🌟 Featured Projects
 
-### 🎮 [Player Tracking System with YOLOv8 + SAM](https://github.com/VED045/Players_Tracking_Repo_Ved)
+### 🎮 [Player Tracking System with YOLOv8](https://github.com/VED045/Players_Tracking_Repo_Ved)
 > Real-time football player detection and tracking  
 🔹 YOLOv8-based detection  
 🔹 Feature-based Re-ID using ResNet50, color histograms  
