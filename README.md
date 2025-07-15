@@ -18,7 +18,6 @@
 <p align="center">
   <a href="mailto:veddeshpande24@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/ved-deshpande-a632b7282/">💼 LinkedIn</a> •
-  <a href="https://github.com/VED045">🐙 GitHub</a> •
   <a href="https://drive.google.com/file/d/13mHHPJnEW37617x6kibvBb80fKkyksvk/view?usp=sharing">📄 Resume</a>
 </p>
 
@@ -88,6 +87,13 @@
 - 🌍 Global Rank 460 in CodeChef Starters
 - 🏸 Zonal-Level Badminton Player
 - 💯 SGPA 10 in Semester Exam
+
+---
+## 📈 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Ved_45?theme=dark&font=Fira+Code&ext=activity" alt="LeetCode Stats" />
+</p>
 
 ---
 
